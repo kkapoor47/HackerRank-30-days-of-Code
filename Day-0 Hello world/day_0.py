@@ -30,3 +30,4 @@ input_string = input()
 
 # Print a string literal saying "Hello, World." to stdout.
 print('Hello, World.')
+print('Welcome to 30 Days of Code!')
